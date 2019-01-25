@@ -1,5 +1,5 @@
 # Add  code here!
-def prime?(integer)
+def prime?(number)
   if #{number} == prime
     puts "true"
   else
